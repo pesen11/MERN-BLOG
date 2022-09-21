@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap");
+
+.homeTitles {
+  font-family: "Crimson Text", serif;
+}
+
+.mainTitle {
+  font-size: 120px;
+}
+
+.subTitle {
+  font-size: 25px;
+  font-weight: 200;
+}
